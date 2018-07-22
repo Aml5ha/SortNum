@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 1aa65b2b9e7174935859464de7eccec7
+timeCreated: 1512164184
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CircleSprite: {fileID: 1653431657639822, guid: 1291489ad2d324d8d9b1d619cc6de286,
+      type: 2}
+  - TextPrefab: {instanceID: 0}
+  - WrongPrefab: {instanceID: 0}
+  - Rend: {instanceID: 0}
+  - NumCanvas: {instanceID: 0}
+  - pop: {fileID: 8300000, guid: 1400520a09b199345bf878de1e0637a1, type: 3}
+  - miss: {fileID: 8300000, guid: c3587c62e364b1b4f906a642110a7192, type: 3}
+  - ground: {fileID: 8300000, guid: 79728519c499d2b44a834432bd85e0ec, type: 3}
+  - title: {instanceID: 0}
+  - score: {instanceID: 0}
+  - GameOverText: {instanceID: 0}
+  - highscore: {instanceID: 0}
+  - GlobalHighText: {instanceID: 0}
+  - currentScore: {instanceID: 0}
+  - instructions: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

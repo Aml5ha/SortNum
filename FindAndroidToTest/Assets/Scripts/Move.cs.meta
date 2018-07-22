@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 520a9aebe731646e982d8a8fafa4db46
+timeCreated: 1509412695
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Pepsi: {fileID: 1653431657639822, guid: 1291489ad2d324d8d9b1d619cc6de286, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

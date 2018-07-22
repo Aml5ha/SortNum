@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1aa65b2b9e7174935859464de7eccec7
+timeCreated: 1509413000
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CircleSprite: {fileID: 1653431657639822, guid: 1291489ad2d324d8d9b1d619cc6de286,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
